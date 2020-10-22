@@ -1,0 +1,28 @@
+_repo: Medicina-Gymnastica-or-A-treatise-concerning-the-power-of-exercise-with-respect-to-the-animal__63497
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fuller, Francis
+    birthdate: 1670
+    deathdate: 1706
+    gutenberg_agent_id: '52480'
+    url: http://www.gutenberg.org/2009/agents/52480
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Fuller_the_Younger
+description: ''
+gutenberg_issued: '2020-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63497'
+  lccn: '35037886'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RM'
+- !lcsh 'Exercise therapy -- Early works to 1800'
+- GITenberg
+title: "Medicina Gymnastica\r\nor, A treatise concerning the power of exercise, with\
+  \ respect to the animal oeconomy; and the great necessity of it in the cure of several\
+  \ distempers"
+url: http://www.gutenberg.org/ebooks/63497
